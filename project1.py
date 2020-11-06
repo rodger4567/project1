@@ -5,7 +5,7 @@ slide2 = '^_~'
 slide3 = '^_^'
 slide4 = 'o_O'
 slide5 = 'O_O'
-slide6 = 'hiк'
+slide6 = 'fuvk uoygit'
 
 time.sleep(1)
 print(slide1, end='/r')
